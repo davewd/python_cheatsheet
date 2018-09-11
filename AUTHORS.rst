@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* David Dawson <davedawson.co@gmail.com>
+* David W. Dawson <davedawson.co@gmail.com>
 
 Contributors
 ------------

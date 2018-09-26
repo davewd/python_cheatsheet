@@ -16,3 +16,5 @@ deploy:
     tags: true
     repo: davewd/python_cheatsheet
     python: 3.6
+after_success:
+  - codecov

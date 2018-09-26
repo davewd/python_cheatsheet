@@ -30,6 +30,7 @@ A-Z Python Cheatsheet
 Features
 --------
 
+* Sphinx Documentation!
 * TODO
 
 Credits

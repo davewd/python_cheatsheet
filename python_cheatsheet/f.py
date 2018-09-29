@@ -3,11 +3,12 @@
 """Main module."""
 
 # File
-filename = "hello.txt"
-file = open(filename, "w")
-for line in file:
-   print( line );
-file.close();
+def files():
+    filename = "hello.txt"
+    file = open(filename, "w")
+    for line in file:
+        print( line );
+    file.close();
 
 
 #facial recognition

@@ -17,8 +17,8 @@ python_cheatsheet
         :target: https://pyup.io/repos/github/davewd/python_cheatsheet/
         :alt: Updates
 
-.. image:: https://coveralls.io/repos/github/davewd/python_cheatsheet/badge.svg?branch=master
-        :target: https://coveralls.io/github/davewd/python_cheatsheet?branch=master
+.. image:: https://codecov.io/gh/davewd/python_cheatsheet/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/davewd/python_cheatsheet
 
 
 A-Z Python Cheatsheet

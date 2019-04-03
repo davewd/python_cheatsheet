@@ -15,4 +15,5 @@ deploy:
     repo: davewd/python_cheatsheet
     python: 3.6
 after_success:
+  - pip install codecov
   - codecov

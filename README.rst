@@ -13,11 +13,12 @@ python_cheatsheet
         :target: https://python-cheatsheet.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-
 .. image:: https://pyup.io/repos/github/davewd/python_cheatsheet/shield.svg
-     :target: https://pyup.io/repos/github/davewd/python_cheatsheet/
-     :alt: Updates
+        :target: https://pyup.io/repos/github/davewd/python_cheatsheet/
+        :alt: Updates
 
+.. image:: https://codecov.io/gh/davewd/python_cheatsheet/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/davewd/python_cheatsheet
 
 
 A-Z Python Cheatsheet

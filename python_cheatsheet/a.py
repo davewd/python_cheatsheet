@@ -36,3 +36,5 @@ def public_fn_with_googley_docstring(name, state=None):
 
     """
     return 0
+
+    

@@ -1,7 +1,6 @@
 import sys
 
-
-def exception_example():
+def exception_example() :
     try:
         f = open('myfile.txt')
         s = f.readline()
@@ -13,3 +12,5 @@ def exception_example():
     except:
         print("Unexpected error:", sys.exc_info()[0])
         raise
+
+        return True;

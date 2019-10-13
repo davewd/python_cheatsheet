@@ -1,6 +1,7 @@
 
 
 
+
 # Thank-You https://medium.com/towards-artificial-intelligence/datetime-manipulations-with-python-de57aa7e3439
 def datetime_examples():
     """
@@ -29,3 +30,7 @@ def datetime_examples():
     
 
 datetime_examples()
+# https://powerfulpython.com/blog/checking-dict-keys/
+
+def dictionary_manipulation() :
+    return None;

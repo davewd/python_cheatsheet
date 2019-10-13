@@ -24,13 +24,10 @@ def datetime_examples():
 
     print(f"Ok to the millisecond its : {datetime.now()}")
     print(f"If i were to only think interms of time : {datetime.now().time()}")
-
-
-    from datetime import timedelta
     
+    from datetime import timedelta
 
-datetime_examples()
+
 # https://powerfulpython.com/blog/checking-dict-keys/
-
 def dictionary_manipulation() :
     return None;

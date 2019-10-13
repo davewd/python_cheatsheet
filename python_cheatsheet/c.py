@@ -2,4 +2,7 @@
 
 """Main module."""
 
-# Calendar
+def calendar_examples():
+    import calendar
+    from d import datetime_examples
+    datetime_examples()

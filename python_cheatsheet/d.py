@@ -22,10 +22,13 @@ def datetime_examples():
     monthName = calendar.month_name[today.month]
     print(f"It's a {weekdayName} in {monthName}")
 
-    print(f"Ok to the millisecond its : {datetime.now()}")
-    print(f"If i were to only think interms of time : {datetime.now().time()}")
+    now = datetime.now();
+    print(f"Ok to the millisecond its : {now}")
+    print(f"If i were to only think interms of time : {now.time()}")
     
-    from datetime import timedelta
+    #NB the timezone is 'None' see the timezone section for how to enable it.
+    timeZone = now.tzname()
+    print(f"Timezone is unset {timeZone}")
 
 
 # https://powerfulpython.com/blog/checking-dict-keys/

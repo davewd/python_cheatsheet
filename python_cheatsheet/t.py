@@ -19,3 +19,11 @@ def timezone_example():
         print(key, '=', val, end=',')
     print('\n')
     print('IN full name =', pytz.country_names['IN'])
+
+def timedelta():
+    from datetime import datetime, timedelta
+    today = datetime.now()
+    ninety_days = timedelta(days=90)
+    print(f"We should add 90 days ({ninety_days}) to today ({today}) and see what happens !({today+ninety_days})")
+
+    #Now whatabout including timezones !?

@@ -30,6 +30,8 @@ def datetime_examples():
     timeZone = now.tzname()
     print(f"Timezone is unset {timeZone}")
 
+    #Adding relative amounts of time / dates see timedelta.
+
 
 # https://powerfulpython.com/blog/checking-dict-keys/
 def dictionary_manipulation() :

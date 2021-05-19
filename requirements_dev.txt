@@ -8,4 +8,4 @@ coverage==5.1
 tox==3.23.0
 Sphinx==3.4.0
 pytest==6.2.3
-pytest-runner==5.2
+pytest-runner==5.3.1
